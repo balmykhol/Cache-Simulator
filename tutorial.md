@@ -6,7 +6,7 @@ This C program code will simulate a cache to identify which accesses would cause
 1. Compile the program using a C compiler:
 
    ```bash
-   gcc AI22BTECH11005 -o lab6
+   gcc code -o lab6
 2. Run the program:
 
    ```bash
