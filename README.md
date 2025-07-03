@@ -1,4 +1,5 @@
-#Pinepline Stall Simulator - https://github.com/balmykhol/Pipeline-Stall-Simulator
+# Pinepline Stall Simulator 
+- https://github.com/balmykhol/Pipeline-Stall-Simulator
 
 # Cache Hit/Miss Simulator
 
