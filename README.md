@@ -1,3 +1,5 @@
+#Pinepline Stall Simulator - https://github.com/balmykhol/Pipeline-Stall-Simulator
+
 # Cache Hit/Miss Simulator
 
 This repository contains a Cache Hit/Miss Simulator implemented in C. The simulator reads memory access patterns and configuration settings from `cache.access` and `cache.config` files to simulate cache operations and determine cache hits and misses.
